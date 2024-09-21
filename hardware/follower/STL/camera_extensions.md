@@ -14,10 +14,10 @@ I have added some 3d models (work in progress)  to mount them easily to the arm:
 <img src="https://github.com/user-attachments/assets/234587d4-e81b-4ce1-912e-47497f724dea" alt="drawing" height="400"/>
 <img src="https://github.com/user-attachments/assets/f84b68b0-14bd-4b4d-ab47-fb98900efef2" alt="drawing" height="400"/>
 
--  [Gripper_Cam_Mount.stl](https://github.com/meetsitaram/koch-v1-1/blob/main/hardware/follower/STL/Gripper_Cam_Mount.stl) for the gripper cam
+-  [Gripper_Cam_Mount.stl](https://github.com/meetsitaram/koch-v1-1/blob/camera_mounts/hardware/follower/STL/Gripper_Cam_Mount.stl) for the gripper cam
 ![cam_mount](https://github.com/user-attachments/assets/b58e027a-ba2a-40bb-a389-1dd48e1a94ed)
 
-- [Base_With_Cam_Mounts.stl](https://github.com/meetsitaram/koch-v1-1/blob/main/hardware/follower/STL/Base_With_Cam_Mounts.stl) for the side cams, although I haven't yet set this up for my recordings.
+- [Base_With_Cam_Mounts.stl](https://github.com/meetsitaram/koch-v1-1/blob/camera_mounts/hardware/follower/STL/Base_With_Cam_Mounts.stl) for the side cams, although I haven't yet set this up for my recordings.
 
 - I couldn't find a proper setup for the top cam and just attached the top camera to a reading lamp right now
 
